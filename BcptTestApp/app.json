@@ -1,0 +1,32 @@
+{
+  "brief": "BCPT Test App",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "platform": "1.0.0.0",
+  "url": "https://example.com",
+  "dependencies": [
+    {
+      "name": "TestApp",
+      "version": "1.0.0.0",
+      "publisher": "TestPublisher",
+      "id": "7777dbaf-e6a7-4181-81e6-5f57594a3905"
+    }
+  ],
+  "publisher": "TestPublisher",
+  "application": "22.0.0.0",
+  "id": "99999999-9999-9999-9999-999999999999",
+  "contextSensitiveHelpUrl": "https://example.com/help",
+  "version": "1.0.0.0",
+  "idRanges": [
+    {
+      "from": 1000005,
+      "to": 1000010
+    }
+  ],
+  "description": "BCPT Test Application",
+  "name": "BcptTestApp",
+  "EULA": "https://example.com/eula",
+  "help": "https://example.com/help",
+  "privacyStatement": "https://example.com/privacy"
+}
